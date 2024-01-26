@@ -1,7 +1,8 @@
 {
   "name": "WTW",
   "version": "13.0.0",
-  "type": "module", //   "homepage": "https://tatiana-polonskaya.github.io/what-to-watch/",
+  "type": "module",
+  "homepage": "https://tatiana-polonskaya.github.io/what-to-watch/",
   "scripts": {
     "start": "vite",
     "build": "tsc && vite build",
